@@ -1,0 +1,8 @@
+{ 
+    "glass": 0, 
+    "kiss": 1,
+    "tease": 2, 
+    "angry": 3, 
+    "smile": 4,
+    "lol": 5
+}
